@@ -42,7 +42,7 @@ const totalBelanjaan = (arrBelanja) => {
   for (let counter = 0; counter < arrHarga.length; counter++) {
     totalHarga += arrHarga[counter];
   }
-  return totalHarga
+  return totalHarga;
 };
 
 // ! JANGAN DIMODIFIKASI
